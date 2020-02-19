@@ -303,7 +303,8 @@ class DepartmentListComponent {
             { "id": 2, "name": "Node" },
             { "id": 3, "name": "MongoDB" },
             { "id": 4, "name": "Ruby" },
-            { "id": 4, "name": "Bootstrap" }
+            { "id": 5, "name": "Bootstrap" },
+		{"id":5, "name": "Alex"}
         ];
     }
     ngOnInit() {
