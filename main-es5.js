@@ -606,7 +606,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           "id": 4,
           "name": "Ruby"
         }, {
-          "id": 4,
+          "id": 5,
           "name": "Bootstrap"
         }];
       }
